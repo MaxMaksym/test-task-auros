@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="test-task-auros:war2">
+    <output-path>$PROJECT_DIR$/out/artifacts/test_task_auros_war2</output-path>
+    <root id="archive" name="test-task-auros_war.war">
+      <element id="artifact" artifact-name="test-task-auros:war exploded" />
+    </root>
+  </artifact>
+</component>
